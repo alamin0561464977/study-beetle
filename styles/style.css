@@ -1,0 +1,21 @@
+.Table {
+    border: 1px solid black;
+    padding: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+    width: 100%;
+}
+
+.Table tbody {
+    margin-bottom: 20px;
+}
+
+.Table td {
+    border: 1px solid;
+    padding: 5px;
+}
+
+.Table th {
+    border: 1px solid;
+    padding: 5px;
+}
